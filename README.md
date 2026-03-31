@@ -1,4 +1,4 @@
-# Open Source Audit - Sparsh Kumar Suman
+# Open Source Audit 
 
 ## Student Details
 - **Name:** Subhasmita Prusty
