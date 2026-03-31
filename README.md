@@ -1,8 +1,8 @@
 # Open Source Audit - Sparsh Kumar Suman
 
 ## Student Details
-- **Name:** Srija Panda
-- **Roll Number:** 24BAS10126
+- **Name:** Subhasmita Prusty
+- **Roll Number:** 24BAS10055
 - **Course:** Open Source Software
 - **Chosen Software:** Python
 
