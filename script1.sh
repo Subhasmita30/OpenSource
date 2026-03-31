@@ -1,6 +1,6 @@
 #!/bin/bash
-YOUR_NAME="Gaurav gautam"
-ROLL="24BCE11319"
+YOUR_NAME="Subhasmita prusty"
+ROLL="24BAS10055"
 KERNEL=$(uname -r)
 USER_NAME=$(whoami)
 UPTIME=$(uptime -p)
